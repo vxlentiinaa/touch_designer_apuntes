@@ -37,13 +37,11 @@ Guía y tutorial: <https://derivative.ca/UserGuide/Tutorials>
 - Al lado derecho, tenemos la caja de propiedades
 - Al lado izquierdo, tenemos las paletas
 
-agregar imagen
+<img src="./imagenes/touch1.png" alt="touch" width="600">
 
 - Arriba, en la parte superior, está el file (exportar,etc)
 - Edit
 - Dialogs
-
-agregar imagen
 
 Tenemos otras funciones como:
 
@@ -55,7 +53,9 @@ Tenemos otras funciones como:
 - Real time: quiere decir que estamos corriendo lo que vemos a tiempo real. Lo podemos usar cuando estemos haciendo cosas muy pesadas (lo desactivas)
 - La barra sale todo lo que hemos realizado.
 
-agregar imagenes
+<img src="./imagenes/touch2.png" alt="touch" width="600">
+
+<img src="./imagenes/touch3.png" alt="touch" width="600">
 
 - Perform mode: Es un modo de visualización
 - Open pallete: hay opciones de componentes u operadores listas
@@ -63,7 +63,7 @@ agregar imagenes
   - Se pueden dividir las pantallas
 - Tenemos tipos de paneles: open view, etc
 
-agregar imagen
+<img src="./imagenes/touch3.png" alt="touch" width="600">
 
 Tenemos en la parte inferior:
 
@@ -83,7 +83,7 @@ En la parte central tenemos la network, donde podemos conectar lo que queramos
 - `DAT:` todo lo que tenga que ver con programación, python
 - `CUSTOM:` los que yo hice
 
-agregar imagen
+<img src="./imagenes/touch4.png" alt="touch" width="600">
 
 ### Operadores
 
