@@ -1,3 +1,9 @@
+Apuntes de: Valentina Ruz
+
+Fecha: Mar 16 jun.
+
+---
+
 # Apuntes sobre *Touch Designer*
 
 `¿Qué es?`
