@@ -93,7 +93,46 @@ En la parte central tenemos la network, donde podemos conectar lo que queramos
 
 ### Operadores
 
+1. Los `COMP` son los componentes, que son operadores más complejos que tienen su propia red.
 
+Nuestras visuales son contenidos dentro de un componente que se llama `container`
 
+¿Cuál es la diferencia entre una base y un container?
+- la base es para crear componentes que mantengan cierta data
+- es mucho más liviano una base que un container
+
+2. Los `TOP` son textures u operadores de textura
+
+en touch textura es imagen, es decir pixel. Manejo de imagen
+
+3. Los `CHOP` son los operadores de canal
+
+los operadores verdes manejan números tanto positivos como negativos; manejan la data
+
+- serial port para arduino con algún sensor
+
+4. Los `SOP` son los surfaces u operadores de superficie, es todo lo que es 3d
+
+en filing podemos cargar algún archivo 3d hecho en otro lado que sea FBX
+
+tener cuidado con esto para que el compu no vaya lento y los frames no corra tan lentos
+
+5. Los `MAT` son los materiales
+
+- materiales constant de solo un color
+- los PBR son más complejos
+
+6. Los `DAT` son operadores que manejan texto, ya sea texto en si, o código
+
+- se puede traer código por serial port, etc.
+- va vinculado a procesos más de código
+
+7. Los `CUSTOMS` son operadores creados por nosotros pero se hace a través de c++
+
+8. Los `POP`
+
+### Análisis de los operadores
+
+¿Cómo están compuestos los operadores?
 
 
