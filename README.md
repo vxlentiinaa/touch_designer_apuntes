@@ -133,6 +133,20 @@ tener cuidado con esto para que el compu no vaya lento y los frames no corra tan
 
 ### Análisis de los operadores
 
-¿Cómo están compuestos los operadores?
+**¿Cómo están compuestos los operadores? y cómo poder crear nuestras propias redes?**
+
+`Editor de red` o `network editor` es lo principal que vemos cuando abrimos
+
+- Presionando `U`: me voy hacia atrás
+- Presionando `Y`: entro a los containers
+
+Para crear un operador o colocarlo en el inicio, debemos:
+
+- Presionamos tab (tabulador)
+
+Los CHOP TOP SOP MAT DAT: la mayoría a su izquierda contienen entradas y a su derecha, salidas
+
+Los COMP, la mayoría tienen solo salidas
+
 
 
