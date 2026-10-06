@@ -85,7 +85,7 @@ En la parte central tenemos la network, donde podemos conectar lo que queramos
 - `TOP:` imagenes en general
 - `CHOP:` control de numeros
 - `SOP:` todo lo que es 3d
-- `MAP:` todo lo que es material
+- `MAT:` todo lo que es material
 - `DAT:` todo lo que tenga que ver con programación, python
 - `CUSTOM:` los que yo hice
 
